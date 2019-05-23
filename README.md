@@ -1,3 +1,5 @@
+# This example is outdated. It uses an old way to connect GraphCMS to Gatsby via the `gatsby-source-graphcms` plugin. The up to date example can be found at [rdela/gatsby-graphcms-rd](https://github.com/rdela/gatsby-graphcms-rd)
+
 # gatsby-graphcms-example
 
 Example of [@GraphCMS/gatsby-source-graphcms](https://github.com/GraphCMS/gatsby-source-graphcms)
